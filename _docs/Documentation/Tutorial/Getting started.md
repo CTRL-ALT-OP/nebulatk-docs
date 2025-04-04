@@ -1,0 +1,1 @@
+NebulaTk can be installed with pip: `pip install nebulatk`.

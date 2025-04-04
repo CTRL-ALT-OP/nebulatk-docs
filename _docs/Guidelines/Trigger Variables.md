@@ -1,0 +1,4 @@
+- mode
+    - String. Must default to “standard”
+- state
+	- Bool. Must default to False

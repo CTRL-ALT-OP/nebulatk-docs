@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"a33e6a186644a5e2","type":"file","file":"NebulaTk/Guidelines/Widget Creation Guidelines.md","x":-123,"y":-40,"width":443,"height":260},
+		{"id":"5a8f6790b507d4ea","type":"file","file":"NebulaTk/Guidelines/General Variables.md","x":-301,"y":400,"width":400,"height":440},
+		{"id":"727316498f530d91","type":"text","text":"# Compliance","x":195,"y":320,"width":250,"height":60},
+		{"id":"9092793c37a5f51c","type":"text","text":"# Guidelines","x":140,"y":-200,"width":250,"height":60},
+		{"id":"7e66cc794945b3b0","type":"file","file":"NebulaTk/Compliance/General Variables.md","x":120,"y":400,"width":540,"height":420},
+		{"id":"76497fee9fe71978","type":"file","file":"NebulaTk/Compliance/Text Variables.md","x":124,"y":880,"width":540,"height":480},
+		{"id":"0b88db440b9ab450","type":"file","file":"NebulaTk/Compliance/Color Variables.md","x":124,"y":1420,"width":540,"height":400},
+		{"id":"3327c2345db7b969","type":"file","file":"NebulaTk/Compliance/Border Variables.md","x":124,"y":1880,"width":540,"height":220},
+		{"id":"16268ee1fc9c7148","type":"file","file":"NebulaTk/Compliance/Image Variables.md","x":120,"y":2160,"width":544,"height":400},
+		{"id":"553b0443fa9d5d23","type":"file","file":"NebulaTk/Compliance/Bound Variables.md","x":122,"y":2619,"width":542,"height":201},
+		{"id":"cf83f6b55f7f8ebd","type":"file","file":"NebulaTk/Compliance/Command Variables.md","x":121,"y":2878,"width":543,"height":212},
+		{"id":"e287f8000157f1ad","type":"file","file":"NebulaTk/Compliance/Trigger Variables.md","x":125,"y":3139,"width":539,"height":201},
+		{"id":"eca4b110da4e0819","type":"file","file":"NebulaTk/Guidelines/Text Variables.md","x":-297,"y":880,"width":400,"height":480},
+		{"id":"1de0f1e809d2a9c1","type":"file","file":"NebulaTk/Guidelines/Color Variables.md","x":-297,"y":1420,"width":400,"height":400},
+		{"id":"bc4e8337c35c3aa2","type":"file","file":"NebulaTk/Guidelines/Border Variables.md","x":-297,"y":1880,"width":400,"height":220},
+		{"id":"36a9c368409ba4d6","type":"file","file":"NebulaTk/Guidelines/Image Variables.md","x":-297,"y":2160,"width":400,"height":400},
+		{"id":"39bff19b1143fd58","type":"file","file":"NebulaTk/Guidelines/Bound Variables.md","x":-297,"y":2620,"width":400,"height":200},
+		{"id":"5492d95debc07873","type":"file","file":"NebulaTk/Guidelines/Command Variables.md","x":-297,"y":2880,"width":400,"height":210},
+		{"id":"665398e9bff9bb60","type":"file","file":"NebulaTk/Guidelines/Trigger Variables.md","x":-297,"y":3140,"width":400,"height":200}
+	],
+	"edges":[
+		{"id":"5f6cbacc91e85581","fromNode":"a33e6a186644a5e2","fromSide":"bottom","toNode":"5a8f6790b507d4ea","toSide":"top"},
+		{"id":"2bc623472d745d90","fromNode":"5a8f6790b507d4ea","fromSide":"bottom","toNode":"eca4b110da4e0819","toSide":"top"},
+		{"id":"3cafee84cf67c339","fromNode":"a33e6a186644a5e2","fromSide":"bottom","toNode":"727316498f530d91","toSide":"top"},
+		{"id":"f83d4208360efac4","fromNode":"9092793c37a5f51c","fromSide":"bottom","toNode":"a33e6a186644a5e2","toSide":"top"},
+		{"id":"f81d184a2c5b6004","fromNode":"eca4b110da4e0819","fromSide":"bottom","toNode":"1de0f1e809d2a9c1","toSide":"top"},
+		{"id":"374ad085c7ea7bce","fromNode":"1de0f1e809d2a9c1","fromSide":"bottom","toNode":"bc4e8337c35c3aa2","toSide":"top"},
+		{"id":"27692f73eefbc8c9","fromNode":"bc4e8337c35c3aa2","fromSide":"bottom","toNode":"36a9c368409ba4d6","toSide":"top"},
+		{"id":"5d6e8ae2e5e3370a","fromNode":"36a9c368409ba4d6","fromSide":"bottom","toNode":"39bff19b1143fd58","toSide":"top"},
+		{"id":"42d62c34d5a024f2","fromNode":"39bff19b1143fd58","fromSide":"bottom","toNode":"5492d95debc07873","toSide":"top"},
+		{"id":"0f4db2f9b2ef2487","fromNode":"5492d95debc07873","fromSide":"bottom","toNode":"665398e9bff9bb60","toSide":"top"}
+	]
+}
