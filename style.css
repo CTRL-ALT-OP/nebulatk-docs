@@ -31,3 +31,17 @@ footer {
   color: white;
   text-align: center;
 }
+.sidebar {
+  width: 200px;
+  position: fixed;
+  top: 0; left: 0;
+  height: 100%;
+  background: #f9f9f9;
+  padding: 1em;
+  border-right: 1px solid #ccc;
+}
+
+main {
+  margin-left: 220px;
+  padding: 2em;
+}
